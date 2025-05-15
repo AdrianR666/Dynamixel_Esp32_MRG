@@ -22,6 +22,6 @@ Este repositorio contiene un proyecto para controlar motores Dynamixel utilizand
 
 Puedes ver un video de uso del proyecto, incluyendo la conexión y ejemplo de movimientos, en el siguiente enlace:
 
-[![Tutorial en YouTube](https://img.youtube.com/vi/Iz5CgdXeGYk/0.jpg)](https://www.youtube.com/watch?v=Iz5CgdXeGYk)
+[![Tutorial en YouTube](https://img.youtube.com/vi/FkeyfO1aXow/0.jpg)](https://www.youtube.com/watch?v=FkeyfO1aXow)
 
 
